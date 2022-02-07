@@ -10,5 +10,12 @@
     "start:dev": "nodemon --inspect index.js"
   },
   "author": "elizabethqdang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
 }
